@@ -1,0 +1,13 @@
+# Drowsiness Alert System Dependencies
+# Python version: 3.7.9
+
+# Please install dlib manually using the .whl file provided in this project folder
+# Example: pip install dlib-19.22.99-cp37-cp37m-win_amd64.whl
+
+imutils==0.5.2
+numpy==1.15.4
+opencv-python==4.0.0.21
+Pillow==9.5.0
+pygame==2.6.1
+pyserial==3.5
+scipy==1.2.0
